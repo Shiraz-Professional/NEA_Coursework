@@ -1,3 +1,5 @@
 scenarioNumber,scenarioText,ChoiceA,ChoiceB,ChoiceC,ChoiceD,Payoff1,Payoff2,Payoff3,Payoff4,Payoff5,Payoff6,Payoff7,Payoff8
-n001,”You are a farmer trying to make some money. The satisfaction gained from planting each crop is shown in the payoff matrix”, “Rice”, “Cassava”, “Rice”, “Cassava”, 3, 1, 4, 3, 3, 2, 4, 1
-
+n001,Two farmers are trying to make some money. The satisfaction gained from planting each crop (monetary value) is shown in the payoff matrix,Rice,Cassava,Rice,Cassava,1,2,4,3,3,2,4,1
+n002,Two delivery firms are deciding whether to produce faster or keep current standards,Maintain,Faster,Maintain,Faster,2,1,3,4,2,3,1,4
+n003,Two firms in a monopolistic market structure are deciding pricing strategies,Low Price,High Price,Low Price,High Price,4,3,1,2,4,1,3,2
+n004,Two firms in a monopolistic market structure are deciding pricing strategies,Low Price,High Price,Low Price,High Price,7,6,4,5,8,4,6,5

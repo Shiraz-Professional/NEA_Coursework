@@ -1,2 +1,2 @@
 scenarioNumber,scenarioText,ChoiceA,ChoiceB,ChoiceC,ChoiceD,Payoff1,Payoff2,Payoff3,Payoff4,Payoff5,Payoff6,Payoff7,Payoff8
-n50
+n050,You are driving at a crossroad and the lights are turning red. Another car is in the same situation.,Go,Stop,Go,Stop,-5,-5,

@@ -1,2 +1,5 @@
 scenarioNumber,scenarioText,ChoiceA,ChoiceB,ChoiceC,ChoiceD,Payoff1,Payoff2,Payoff3,Payoff4,Payoff5,Payoff6,Payoff7,Payoff8
-n025
+n026,Two countries must decide whether to sign the Paris agreement which limits global warming (Cooperate) or not (Defect).,Sign (less polution),Abstain (pollute),Sign (less polution),Abstain (pollute),3,1,4,2,3,4,1,2 
+n027,Two athletes can choose whether they want to take performance-enhancing drugs (Cooperate) or not (Defect).,No Dope,Dope,No Dope,Dope,6,2,8,4,6,8,2,4
+n028,Two businesses in an Oligopoly Market Structure can choose whether to keep prices high (Cooperate) or lower them (Defect).,High Prices,Low Prices,High Prices,Low Prices,3,1,4,2,3,4,1,2
+n029,Two countries can decide to sign a nuclear arms agreement (Cooperate) or not (Defect),Sign (stop nukes),Don't Sign (have/develop nukes),Sign (stop nukes),Don't Sign (have/develop nukes),5,3,6,4,5,6,3,4
