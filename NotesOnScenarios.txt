@@ -1,16 +1,36 @@
-These are notes on how to formulate different scenarios
+These are notes on how to formulate different scenarios.
 
 Invisible Hand:
     Here are the choices/payoffs for when the dominant strategy is bottom right. 
-    Bad,Good,Bad,Good,2,1,3,4,2,3,1,4
+    Bad, Good, Bad, Good,2,1,3,4,2,3,1,4
 
     For when it is in the top left.
-    Good,Bad,Good,Bad,4,3,1,2,4,1,3,2
+    Good, Bad, Good, Bad,4,3,1,2,4,1,3,2
+
+    For when it is in the bottom left.
+    Bad, Good, Good, Bad,1,2,4,3,3,2,4,1
+
+    For when it is in the top right.
+    Good, Bad, Bad, Good,3,4,2,1,1,4,2,3
 
 Prisoners' Dilemma:
     Here are the choices/payoffs for when the dominant strategy is bottom right. 
-    High Prices, Low Prices, High Prices, Low Prices, 3,1,4,2,3,4,1,2
+    High Prices, Low Prices, High Prices, Low Prices,3,1,4,2,3,4,1,2
 
     For when it is top left.
-    Low Prices, High Prices, Low Prices, High Prices, 2,3,1,4,2,1,3,4
+    Low Prices, High Prices, Low Prices, High Prices,2,3,1,4,2,1,3,4
     
+    For when it is bottom left.
+    High Prices, Low Prices, Low Prices, High Prices,1,3,2,4,4,3,2,1 
+
+    For when it is top right.
+    Low prices, High Prices, High Prices, Low Prices,4,2,3,1,1,2,3,4
+
+Pure Strategy Nash Equilibria:
+    Here are the choices/payoffs for when the dominant strategy is bottom right and top left. 
+    Bad, Good, Good, Bad,3,1,0,2,2,1,0,3
+    Good, Bad, Bad, Good,2,0,1,3,3,0,1,2
+
+    For when it is top right and bottom left. 
+    Bad, Good, Bad, Good,0,3,2,1,0,2,3,1
+    Good, Bad, Good, Bad,1,2,3,0,1,3,2,0
